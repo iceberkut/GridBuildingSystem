@@ -29,3 +29,7 @@ Assembly Definition.
 Результат:
 Готовый проект, включающий сцену с функционалом размещения и удаления зданий на
 грид-сетке
+![image](https://github.com/user-attachments/assets/ee1fb4cd-0f4a-4ed0-8fc1-c6a402e725f2)
+![image](https://github.com/user-attachments/assets/e1f1308c-3d2a-414a-b2ed-7e55146ab465)
+![image](https://github.com/user-attachments/assets/e62a886a-c3bf-4bbc-927f-e11549e8c724)
+![image](https://github.com/user-attachments/assets/a1171f90-f232-4186-b234-d34526dec3f7)
